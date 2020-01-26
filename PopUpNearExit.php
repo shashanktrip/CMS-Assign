@@ -9,8 +9,7 @@ Author: Shashank
 Author URI: shashanks.sgedu.site/wordpress10/
 Version: 1.0
 License: GPLv2
-*/
-
+*/ 
 if ( ! defined( 'ABSPATH' ) )
 	exit;
 

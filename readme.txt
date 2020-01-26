@@ -1,5 +1,4 @@
 === Popupon near exit ===
-
 Contributors: Shashank 
 Tags: Popup plugin, popup, popup exit, exit popup, wordpress.
 Tested up to: 5.2.3

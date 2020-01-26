@@ -6,7 +6,7 @@ Description: Whenever the mouse is moved  to the exit for the first time, the us
 perform the function that the owner of the website wants. The owner can add his own code and add 
 his own functionalities to the popup.
 Author: Shashank
-Author URI: https://www.shashank.com/
+Author URI: shashanks.sgedu.site/wordpress10/
 Version: 1.0
 License: GPLv2
 */

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: PopUpNearExit
-Plugin URI: https://www.shashank.com/
+Plugin URI: shashanks.sgedu.site/wordpress10/
 Description: Whenever the mouse is moved  to the exit for the first time, the user customized popup appears and prompts the visitor to 
 perform the function that the owner of the website wants. The owner can add his own code and add 
 his own functionalities to the popup.

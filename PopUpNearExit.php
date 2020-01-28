@@ -13,7 +13,7 @@ License: GPLv2
 if ( ! defined( 'ABSPATH' ) )
 	exit;
 
-function exit_popup_menu() {
+	function exit_popup_menu() {
 	add_options_page('Pop Up Near Exit Settings', 'Pop Up Near Exit', 'administrator', 'exit-popup-settings', 'exit_popup_settings_page', 'dashicons-admin-generic');
 }
 add_action('admin_menu', 'exit_popup_menu');
